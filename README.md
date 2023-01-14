@@ -1,5 +1,6 @@
 # Here's Liquid Helium!  
-[![Liquid Helium's GitHub stats](https://github-readme-stats.vercel.app/api?username=liquidhelium)](https://github.com/anuraghazra/github-readme-stats)
+[![Liquid Helium's GitHub stats](https://github-readme-stats.vercel.app/api?username=liquidhelium)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liquidhelium&layout=compact)
 ## Main Languages:
 - Python 
 - Rust
